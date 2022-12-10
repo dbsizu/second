@@ -1,6 +1,6 @@
 # Docker Getting Started Tutorial
 
-![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
+![My Remote Image](https://www.kepak.com/wp-content/themes/kepak/assets/images/kepak-logo.png)
 
 This tutorial has been written with the intent of helping folks get up and running
 with containers and is designed to work with Docker Desktop. While not going too much 
