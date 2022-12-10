@@ -1,6 +1,6 @@
 # Docker Getting Started Tutorial
 
-<img src="Images/OIP.jpg" alt=logo/>
+<img src="[Images/OIP.jpg](https://www.kepak.com/wp-content/themes/kepak/assets/images/kepak-logo.png)" alt=logo/>
 
 This tutorial has been written with the intent of helping folks get up and running
 with containers and is designed to work with Docker Desktop. While not going too much 
